@@ -54,9 +54,6 @@ git push origin my-new-feature
 
     Create a pull request from your forked repository to the original repository, and await review from the project maintainers.
 
-License
 
-The Joolba Media News Website project is open source and licensed under the MIT License. Please see the LICENSE file for more information.
-Contact
 
 If you have any questions or concerns about the Joolba Media News Website project, please contact us at info.joolba@gmail.com. We welcome your feedback and contributions
