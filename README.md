@@ -10,7 +10,7 @@ To get started with the Joolba Media News Website project, please follow these s
 
 bash
 
-git clone https://github.com/joolbamedia/joolba-news-website.git
+git clone https://github.com/bash-githubs/joolba-news-website.git
 
     Install the necessary dependencies using your package manager of choice. We recommend using pipenv for Python dependencies, and npm or yarn for JavaScript dependencies.
 
